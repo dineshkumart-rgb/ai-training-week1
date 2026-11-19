@@ -1,1 +1,1 @@
-﻿Change from main
+﻿Resolved content combining main and conflict-branch
