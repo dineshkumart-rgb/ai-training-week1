@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "name": "Dinesh",
+        "age": "30",
+        "department": "IT",
+        "salary": "50000",
+        "city": "Chennai"
+    },
+    {
+        "id": "2",
+        "name": "Kumar",
+        "age": "28",
+        "department": "HR",
+        "salary": "45000",
+        "city": "Trichy"
+    },
+    {
+        "id": "3",
+        "name": "Raj",
+        "age": "35",
+        "department": "Finance",
+        "salary": "60000",
+        "city": "Madurai"
+    },
+    {
+        "id": "4",
+        "name": "Priya",
+        "age": "29",
+        "department": "IT",
+        "salary": "52000",
+        "city": "Coimbatore"
+    }
+]
